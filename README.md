@@ -18,7 +18,6 @@ Please check the [detailed installation instructions](INSTALL.md).
 The  weights could be downloaded in [here](https://drive.google.com/drive/folders/1Kkm1cOfgSySpSgHvzW7hgbdAjeb5iiwj?usp=share_link).
 ## Training
 ```bash
-conda activate pytracking
 cd ltr
 python run_training.py joint joint_stage1  # stage 1
 python run_training.py joint joint_stage2  # stage 2
