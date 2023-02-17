@@ -41,7 +41,7 @@ This codebase borrows the code and structure from [official JOINT repository](ht
 @article{lan2022learning,
   title={Learning to Learn Better for Video Object Segmentation},
   author={Lan, Meng and Zhang, Jing and Zhang, Lefei and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2212.02112},
-  year={2022}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2023}
 }
 ```
